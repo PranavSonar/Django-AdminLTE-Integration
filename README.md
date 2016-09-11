@@ -1,5 +1,5 @@
 # Django-AdminLTE-Integration
-AdminLTE administration template integrated in Django
+AdminLTE administration theme integrated in Django
 
 ### Version used:
 
